@@ -19,4 +19,4 @@ This project won the 2nd place of IEEE SFU (Fall 2013) Engineering competition.
 ## Credits
 The credits of this project goes to the whole Group San of ENSC 100/101 in Fall 2013 at SFU.
 
-The sketch is based on example code of Adafruit cc3000 wifishield and the main contributors to this Arduinio sketch are Karma E. and myself.
+The sketch is based on example code of Adafruit cc3000 wifishield and the main contributors to this Arduinio sketch are Kamal E. and myself.
